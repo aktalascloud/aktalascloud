@@ -2,9 +2,9 @@
 
 # FeraVolt · Локальный ИИ на доступном железе
 
-[English](README.md) · [Модели Hugging Face](https://huggingface.co/TalasCloud)
+[English](README.md) · [Hugging Face · TalasCloud](https://huggingface.co/TalasCloud)
 
-Поддерживаю портативные сборки и инструменты для локальных LLM и медиамоделей. Работаю с NVIDIA Pascal и Tesla P40 через CUDA, AMD Polaris и RX 580 через Vulkan, Intel Ivy Bridge с AVX1 и Haswell с AVX2.
+Оптимизирую инференс локальных LLM и медиамоделей для маломощных ПК. Поддерживаю портативные сборки для Windows и инструменты квантования GGUF. Работаю с NVIDIA Pascal и Tesla P40 через CUDA, AMD Polaris и RX 580 через Vulkan, Intel Ivy Bridge с AVX1 и Haswell с AVX2.
 
 ## Движки и модели
 

@@ -2,9 +2,9 @@
 
 # FeraVolt · Local AI on older hardware
 
-[Русский](README.ru.md) · [Hugging Face models](https://huggingface.co/TalasCloud)
+[Русский](README.ru.md) · [Hugging Face · TalasCloud](https://huggingface.co/TalasCloud)
 
-I maintain portable builds and tools for local LLMs and generative media on older hardware. I work with NVIDIA Pascal and Tesla P40 over CUDA, AMD Polaris and RX 580 over Vulkan, Intel Ivy Bridge with AVX1, and Haswell with AVX2.
+I optimize local LLM inference and generative media for low-spec PCs. My projects include portable Windows builds and GGUF quantization. I work with NVIDIA Pascal and Tesla P40 over CUDA, AMD Polaris and RX 580 over Vulkan, Intel Ivy Bridge with AVX1, and Haswell with AVX2.
 
 ## Inference and model tools
 
